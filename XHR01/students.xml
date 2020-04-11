@@ -1,0 +1,12 @@
+<students>
+	<student id="1">
+		<name>许浩然</name>
+		<age>21</age>
+		<hobby>basketball</hobby>
+	</student>
+	<student id="2">
+		<name>徐阳</name>
+		<age>18</age>
+		<hobby>games</hobby>
+	</student>
+</students>
